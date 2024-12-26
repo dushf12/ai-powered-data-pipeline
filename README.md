@@ -1,4 +1,4 @@
-# ai-powered-data-pipeline
+# AI-powered-data-pipeline
 AI-Powered Data Pipeline with AWS Glue, S3, Athena, and SageMaker
 # AI-Powered Data Pipeline with AWS Glue, S3, Athena, and SageMaker
 
